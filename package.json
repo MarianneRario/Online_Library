@@ -14,10 +14,11 @@
     "ejs": "^3.1.6",
     "express": "^4.17.2",
     "express-ejs-layouts": "^2.5.1",
-    "mongoose": "^6.1.8"
+    "mongoose": "^6.1.8",
+    "dotenv": "^14.3.2"
   },
   "devDependencies": {
-    "dotenv": "^14.3.2",
+
     "nodemon": "^2.0.15"
   }
 }
